@@ -30,4 +30,4 @@ Al haber apagado el switch en el HMI vemos como el cambio se refleja en el PLC (
 
 ![PLC1](../Images/lab2/compara2.png)
 
-Sin embargo tambien podemos ver que hay cierto retraso en la actualizacion entre PLC y HMI que se debe tener en cuenta
+Todo esto nos ayuda a ver como las acciones del operador se transmiten, como la informacion se nos presenta y la importancia de la misma, ya que dependemos de que esos datos sean correctos para el funcionamiento adecuado de la planta y la prevencion de problemas como pueden ser ataques o errores de funcionamiento en el sistema.
